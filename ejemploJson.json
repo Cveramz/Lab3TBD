@@ -1,0 +1,20 @@
+{
+  "_id": ObjectId("5fd8bce7d56d2c4e16e22c6b"),
+  "nombre_voluntario": "Nombre del Voluntario",
+  "edad": 25,
+  "equipamiento": "Equipo necesario",
+  "estado_salud": true,
+  "disponibilidad": true,
+  "email_voluntario": "correo@ejemplo.com",
+  "password_voluntario": "contraseña",
+  "habilidades": [
+    {
+      "codigo": "HH1",
+      "descripcion": "Descripción de la Habilidad 1"
+    },
+    {
+      "codigo": "HH2",
+      "descripcion": "Descripción de la Habilidad 2"
+    }
+  ]
+}
